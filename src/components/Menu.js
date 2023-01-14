@@ -8,11 +8,11 @@ function Menu() {
         <Navbar.Toggle aria-controls="responsive-navbar-nav" />
         <Navbar.Collapse id="responsive-navbar-nav">
           <Nav className="me-auto">
-            <Nav.Link href="#features">Features</Nav.Link>
-            <Nav.Link href="#pricing">Pricing</Nav.Link>
+            <Nav.Link href="#features">nese</Nav.Link>
+            <Nav.Link href="#pricing">qiymet</Nav.Link>
           </Nav>
           <Nav>
-            <Nav.Link href="#deets">More deets</Nav.Link>
+            <Nav.Link href="#deets">Daha çox</Nav.Link>
           </Nav>
         </Navbar.Collapse>
       </Container>
